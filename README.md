@@ -1,9 +1,10 @@
 # Hierarchical Attention Document Network for Multi-Scale Historical Document Recognition with mT5 Post-Processing
 
-## This repository will contain the code implementation of the HAND foundation model.
+## This repository will host the code implementation of the HAND framework.
 
 
-### Code is currently being cleaned and documented for better clarity. It will be uploaded here very soon. Stay tuned!
+### Note: The code is currently undergoing a cleaning and documentation process for enhanced clarity. It will be available for download soon. Thank you for your patience!
+
 
 
 
